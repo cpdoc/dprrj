@@ -1,7 +1,25 @@
 ---
 title: FRANCO JÚnioR, Barros
-cargoss:
- -  const. est. RJ 1892
- -  dep. fed. RJ 1894-1902 e 1906-1907.
-author: 
+cargoss: 
+ - Constituinte
+ - Deputado federal
+ - Deputado federal
+cargos_esp: 
+ - est
+ - 
+ - 
+datas_ini: 
+ - 1892
+ - 1906
+ - 1894
+datas_fim: 
+ - 1892
+ - 1907
+ - 1902
+estados: 
+ - RJ
+ - RJ
+ - RJ
+autor: 
+ - 
 ---

@@ -1,8 +1,25 @@
 ---
 title: CAVALCANTI, Tenório
-cargoss:
- -  const. est. RJ 1947
- -  dep. est. RJ 1947-1951
- -  dep. fed. RJ 1951-1964.
-author: Israel Beloch
+cargoss: 
+ - Constituinte
+ - Deputado Estadual
+ - Deputado federal
+cargos_esp: 
+ - est
+ - 
+ - 
+datas_ini: 
+ - 1947
+ - 1947
+ - 1951
+datas_fim: 
+ - 1947
+ - 1951
+ - 1964
+estados: 
+ - RJ
+ - RJ
+ - RJ
+autor: 
+ - Israel Beloch
 ---

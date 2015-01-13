@@ -1,7 +1,20 @@
 ---
 title: PALMIER, Luís
-cargoss:
- -  const. est. RJ 1935
- -  dep. est. RJ 1936-1937.
-author: 
+cargoss: 
+ - Constituinte
+ - Deputado Estadual
+cargos_esp: 
+ - est
+ - 
+datas_ini: 
+ - 1935
+ - 1936
+datas_fim: 
+ - 1935
+ - 1937
+estados: 
+ - RJ
+ - RJ
+autor: 
+ - 
 ---

@@ -1,8 +1,25 @@
 ---
 title: BEZAMAT, Alberto
-cargoss:
- -  dep. geral RJ 1885-1889
- -  dep. est. RJ 1898-1900
- -  def. fed. RJ
-author: Luciana Pinheiro
+cargoss: 
+ - Deputado Geral
+ - Deputado Estadual
+ - def fed
+cargos_esp: 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1885
+ - 1898
+ - 1903
+datas_fim: 
+ - 1889
+ - 1900
+ - 1905
+estados: 
+ - RJ
+ - RJ
+ - RJ
+autor: 
+ - Luciana Pinheiro
 ---

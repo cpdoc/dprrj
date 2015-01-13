@@ -1,8 +1,25 @@
 ---
 title: GUIMARÃES, Celso Aprígio de Macedo Soares
-cargoss:
- -  const. est. RJ 1935-1936
- -  dep. est. RJ 1935-1937
- -  pref. Niterói
-author: 
+cargoss: 
+ - Constituinte
+ - Deputado Estadual
+ - Prefeito
+cargos_esp: 
+ - est
+ - 
+ - Niterói
+datas_ini: 
+ - 1935
+ - 1935
+ - 1945
+datas_fim: 
+ - 1936
+ - 1937
+ - 1948
+estados: 
+ - RJ
+ - RJ
+ - 
+autor: 
+ - 
 ---

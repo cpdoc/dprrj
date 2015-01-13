@@ -1,5 +1,17 @@
 ---
 title: VIANA, Valdemar
-cargoss:
- -  const. est. GB 1960-1961
- -  dep. est. GB 1960-1964.
+cargoss: 
+ - Constituinte
+ - Deputado Estadual
+cargos_esp: 
+ - est GB
+ - GB
+datas_ini: 
+ - 1960
+ - 1960
+datas_fim: 
+ - 1961
+ - 1964
+estados: 
+ - 
+ - 

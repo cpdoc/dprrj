@@ -1,7 +1,20 @@
 ---
 title: GOULART, João
-cargoss:
- -  sen. est. RJ 1891
- -  dep. est. RJ 1901-1903.
-author: 
+cargoss: 
+ - Senador
+ - Deputado Estadual
+cargos_esp: 
+ - est
+ - 
+datas_ini: 
+ - 1891
+ - 1901
+datas_fim: 
+ - 1891
+ - 1903
+estados: 
+ - RJ
+ - RJ
+autor: 
+ - 
 ---

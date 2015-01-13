@@ -1,8 +1,25 @@
 ---
 title: FERNANDES, Paulo
-cargoss:
- -  const. 1946
- -  dep. fed. RJ 1946-1951
- -  sen. RJ 1955-1962.
-author: 
+cargoss: 
+ - Constituinte
+ - Deputado federal
+ - Senador
+cargos_esp: 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1946
+ - 1946
+ - 1955
+datas_fim: 
+ - 1946
+ - 1951
+ - 1962
+estados: 
+ - 
+ - RJ
+ - RJ
+autor: 
+ - 
 ---

@@ -1,7 +1,20 @@
 ---
 title: MANHÃES, Antero Ferraz
-cargoss:
- -  const. est. RJ 1935-1936
- -  dep. est. RJ 1935-1937.
-author: Bruno Norbert
+cargoss: 
+ - Constituinte
+ - Deputado Estadual
+cargos_esp: 
+ - est
+ - 
+datas_ini: 
+ - 1935
+ - 1935
+datas_fim: 
+ - 1936
+ - 1937
+estados: 
+ - RJ
+ - RJ
+autor: 
+ - Bruno Norbert
 ---

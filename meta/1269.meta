@@ -1,8 +1,30 @@
 ---
 title: NUNES, Pereira
-cargoss:
- -  pref. Niterói 1904-1905
- -  dep. est. RJ 1906
- -  dep. fed. RJ 1906-1917
-author: Adrianna Setemy
+cargoss: 
+ - Prefeito
+ - Deputado Estadual
+ - Deputado federal
+ - Prefeito
+cargos_esp: 
+ - Niterói
+ - 
+ - 
+ - Campos
+datas_ini: 
+ - 1904
+ - 1906
+ - 1906
+ - 1928
+datas_fim: 
+ - 1905
+ - 1906
+ - 1917
+ - 1930
+estados: 
+ - 
+ - RJ
+ - RJ
+ - 
+autor: 
+ - Adrianna Setemy
 ---

@@ -1,8 +1,25 @@
 ---
 title: BRUNINI, Raul
-cargoss:
- -  const. est. GB 1960-1961
- -  dep. est. GB 1961-1967
- -  dep. fed. GB
-author: 
+cargoss: 
+ - Constituinte
+ - Deputado Estadual
+ - Deputado federal
+cargos_esp: 
+ - est GB
+ - GB
+ - GB
+datas_ini: 
+ - 1960
+ - 1961
+ - 1967
+datas_fim: 
+ - 1961
+ - 1967
+ - 1969
+estados: 
+ - 
+ - 
+ - 
+autor: 
+ - 
 ---

@@ -1,7 +1,25 @@
 ---
 title: GAMA, Aluísio
-cargoss:
- -  const. est. RJ 1975
- -  dep. est. RJ 1975-1983 e 1987-1989.
-author: 
+cargoss: 
+ - Constituinte
+ - Deputado Estadual
+ - Deputado Estadual
+cargos_esp: 
+ - est
+ - 
+ - 
+datas_ini: 
+ - 1975
+ - 1987
+ - 1975
+datas_fim: 
+ - 1975
+ - 1989
+ - 1983
+estados: 
+ - RJ
+ - RJ
+ - RJ
+autor: 
+ - 
 ---

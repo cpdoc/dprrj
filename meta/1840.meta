@@ -1,8 +1,30 @@
 ---
 title: SOARES, Messias
-cargoss:
- -  dep. est. RJ 1983-1987
- -  const. 1987-1988
- -  dep. fed. RJ 1987-1991,
-author: 
+cargoss: 
+ - Deputado Estadual
+ - Constituinte
+ - Deputado federal
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1983
+ - 1987
+ - 1994
+ - 1987
+datas_fim: 
+ - 1987
+ - 1988
+ - 1995
+ - 1991
+estados: 
+ - RJ
+ - 
+ - RJ
+ - RJ
+autor: 
+ - 
 ---

@@ -1,8 +1,30 @@
 ---
 title: PALLIS, Vilmar
-cargoss:
- -  dep. est. GB 1971-1975
- -  const. Est. RJ 1975
- -  dep. est. RJ 1975-1983
-author: 
+cargoss: 
+ - Deputado Estadual
+ - Constituinte
+ - Deputado Estadual
+ - fed
+cargos_esp: 
+ - GB
+ - Est
+ - 
+ - 
+datas_ini: 
+ - 1971
+ - 1975
+ - 1975
+ - 1983
+datas_fim: 
+ - 1975
+ - 1975
+ - 1983
+ - 1987
+estados: 
+ - 
+ - RJ
+ - RJ
+ - RJ
+autor: 
+ - 
 ---

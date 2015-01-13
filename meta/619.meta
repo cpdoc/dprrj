@@ -1,9 +1,25 @@
 ---
 title: FARIA, Bento de
-cargoss:
- -  magistrado
- -  dep. est. RJ 1898-1900
- -  min. STF 1925-1945
- -  proc.-ger.
-author: Mauro Malin
+cargoss: 
+ - Deputado Estadual
+ - Ministro do Supremo Tribunal Federal
+ - Procurador-geral da República
+cargos_esp: 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1898
+ - 1925
+ - 1931
+datas_fim: 
+ - 1900
+ - 1945
+ - 1934
+estados: 
+ - RJ
+ - 
+ - 
+autor: 
+ - Mauro Malin
 ---

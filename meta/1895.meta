@@ -1,8 +1,35 @@
 ---
 title: TÁVOLA, Artur da
-cargoss:
- -  jornalista
- -  const. est. GB 1960-1961
- -  dep. est. GB 1961-1964
-author: 
+cargoss: 
+ - Constituinte
+ - Deputado Estadual
+ - Constituinte
+ - Deputado federal
+ - Senador
+cargos_esp: 
+ - est GB
+ - GB
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1960
+ - 1961
+ - 1987
+ - 1987
+ - 1995
+datas_fim: 
+ - 1961
+ - 1964
+ - 1988
+ - 1995
+ - 2003
+estados: 
+ - 
+ - 
+ - 
+ - RJ
+ - RJ
+autor: 
+ - 
 ---

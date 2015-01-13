@@ -1,8 +1,40 @@
 ---
 title: SOBRAL, Luís
-cargoss:
- -  pref. Campos 1914-1918, 1920-1924, 1930
- -  const. est. RJ 1935
- -  dep.
-author: Raimundo Helio Lopes
+cargoss: 
+ - Prefeito
+ - Prefeito
+ - Prefeito
+ - Constituinte
+ - Deputado Estadual
+ - Prefeito
+cargos_esp: 
+ - Campos
+ - Campos
+ - Campos
+ - est
+ - 
+ - Campos
+datas_ini: 
+ - 1930
+ - 1920
+ - 1914
+ - 1935
+ - 1935
+ - 1937
+datas_fim: 
+ - 1930
+ - 1924
+ - 1918
+ - 1935
+ - 1937
+ - 1939
+estados: 
+ - 
+ - 
+ - 
+ - RJ
+ - RJ
+ - 
+autor: 
+ - Raimundo Helio Lopes
 ---

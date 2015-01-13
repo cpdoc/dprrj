@@ -1,9 +1,25 @@
 ---
 title: CORBISIER, Roland
-cargoss:
- -  jornalista
- -  const. est. GB 1960-1961
- -  dep. est. GB 1961-1963
- -  dep.
-author: Beatriz Kushnir
+cargoss: 
+ - Constituinte
+ - Deputado Estadual
+ - Deputado federal
+cargos_esp: 
+ - est GB
+ - GB
+ - GB
+datas_ini: 
+ - 1960
+ - 1961
+ - 1963
+datas_fim: 
+ - 1961
+ - 1963
+ - 1964
+estados: 
+ - 
+ - 
+ - 
+autor: 
+ - Beatriz Kushnir
 ---

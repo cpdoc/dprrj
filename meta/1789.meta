@@ -1,7 +1,25 @@
 ---
 title: SILVA, Hermogêneo
-cargoss:
- -  const. est. RJ 1892
- -  dep. est. RJ 1895-1897, 1901-1902.
-author: 
+cargoss: 
+ - Constituinte
+ - Deputado Estadual
+ - Deputado Estadual
+cargos_esp: 
+ - est
+ - 
+ - 
+datas_ini: 
+ - 1892
+ - 1901
+ - 1895
+datas_fim: 
+ - 1892
+ - 1902
+ - 1897
+estados: 
+ - RJ
+ - RJ
+ - RJ
+autor: 
+ - 
 ---

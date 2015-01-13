@@ -1,7 +1,30 @@
 ---
 title: PINTO, Barreto
-cargoss:
- -  const. 1946
- -  dep. fed. DF 1946-1949, 1952 e 1954-1955.
-author: 
+cargoss: 
+ - Constituinte
+ - Deputado federal
+ - Deputado federal
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1946
+ - 1954
+ - 1952
+ - 1946
+datas_fim: 
+ - 1946
+ - 1955
+ - 1952
+ - 1949
+estados: 
+ - 
+ - DF
+ - DF
+ - DF
+autor: 
+ - 
 ---

@@ -1,8 +1,30 @@
 ---
 title: COELHO, Lopo
-cargoss:
- -  dep. fed. DF 1951-1959
- -  const. est. GB 1960-1961
- -  dep. est. GB
-author: 
+cargoss: 
+ - Deputado federal
+ - Constituinte
+ - Deputado Estadual
+ - Deputado federal
+cargos_esp: 
+ - 
+ - est GB
+ - GB
+ - GB
+datas_ini: 
+ - 1951
+ - 1960
+ - 1961
+ - 1967
+datas_fim: 
+ - 1959
+ - 1961
+ - 1963
+ - 1975
+estados: 
+ - DF
+ - 
+ - 
+ - 
+autor: 
+ - 
 ---

@@ -1,7 +1,20 @@
 ---
 title: GUARINO, Luís
-cargoss:
- -  const. est. RJ 1935
- -  dep. est. RJ 1935-1937.
-author: Raimundo Helio Lopes
+cargoss: 
+ - Constituinte
+ - Deputado Estadual
+cargos_esp: 
+ - est
+ - 
+datas_ini: 
+ - 1935
+ - 1935
+datas_fim: 
+ - 1935
+ - 1937
+estados: 
+ - RJ
+ - RJ
+autor: 
+ - Raimundo Helio Lopes
 ---

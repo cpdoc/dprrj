@@ -1,7 +1,20 @@
 ---
 title: JOIA, Joaquim
-cargoss:
- -  const. est. RJ 1975
- -  dep. est. RJ 1975-1983.
-author: 
+cargoss: 
+ - Constituinte
+ - Deputado Estadual
+cargos_esp: 
+ - est
+ - 
+datas_ini: 
+ - 1975
+ - 1975
+datas_fim: 
+ - 1975
+ - 1983
+estados: 
+ - RJ
+ - RJ
+autor: 
+ - 
 ---

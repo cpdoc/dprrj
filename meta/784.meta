@@ -1,8 +1,30 @@
 ---
 title: GUIMARÃES, Edson Teixeira
-cargoss:
- -  dep. est. GB 1963-1967
- -  dep. est. RJ 1971-1975
- -  const. est. RJ 1975
-author: Bruno Marques
+cargoss: 
+ - Deputado Estadual
+ - Deputado Estadual
+ - Constituinte
+ - Deputado Estadual
+cargos_esp: 
+ - GB
+ - 
+ - est
+ - 
+datas_ini: 
+ - 1963
+ - 1971
+ - 1975
+ - 1979
+datas_fim: 
+ - 1967
+ - 1975
+ - 1975
+ - 1983
+estados: 
+ - 
+ - RJ
+ - RJ
+ - RJ
+autor: 
+ - Bruno Marques
 ---

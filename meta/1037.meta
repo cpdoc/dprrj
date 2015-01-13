@@ -1,8 +1,25 @@
 ---
 title: MARIA ROSA
-cargoss:
- -  dep. est. GB 1970-1975
- -  dep. est. RJ 1975-1983
- -  const. est. RJ 1975.
-author: 
+cargoss: 
+ - Deputado Estadual
+ - Deputado Estadual
+ - Constituinte
+cargos_esp: 
+ - GB
+ - 
+ - est
+datas_ini: 
+ - 1970
+ - 1975
+ - 1975
+datas_fim: 
+ - 1975
+ - 1983
+ - 1975
+estados: 
+ - 
+ - RJ
+ - RJ
+autor: 
+ - 
 ---

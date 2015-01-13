@@ -1,5 +1,22 @@
 ---
 title: NEVES, Levi
-cargoss:
- -  const. est. GB 1960-1961
- -  dep. est. GB 1961-1968 e 1971-1975.
+cargoss: 
+ - Constituinte
+ - Deputado Estadual
+ - Deputado Estadual
+cargos_esp: 
+ - est GB
+ - GB
+ - GB
+datas_ini: 
+ - 1960
+ - 1971
+ - 1961
+datas_fim: 
+ - 1961
+ - 1975
+ - 1968
+estados: 
+ - 
+ - 
+ - 

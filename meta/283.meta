@@ -1,7 +1,20 @@
 ---
 title: BRITO, Veiga
-cargoss:
- -  dep. fed. GB 1967-1971
- -  dep. est. RJ 1987.
-author: 
+cargoss: 
+ - Deputado federal
+ - Deputado Estadual
+cargos_esp: 
+ - GB
+ - 
+datas_ini: 
+ - 1967
+ - 1987
+datas_fim: 
+ - 1971
+ - 1987
+estados: 
+ - 
+ - RJ
+autor: 
+ - 
 ---

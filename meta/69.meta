@@ -1,9 +1,45 @@
 ---
 title: AMARAL NETO
-cargoss:
- -  jornalista
- -  const. est. GB 1960-1961
- -  dep. est. GB 1961-1963
- -  dep.
-author: Renato Lemos
+cargoss: 
+ - Constituinte
+ - Deputado Estadual
+ - Deputado federal
+ - Deputado federal
+ - Deputado federal
+ - Constituinte
+ - Deputado federal
+cargos_esp: 
+ - est GB
+ - GB
+ - GB
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1960
+ - 1961
+ - 1963
+ - 1983
+ - 1975
+ - 1987
+ - 1988
+datas_fim: 
+ - 1961
+ - 1963
+ - 1975
+ - 1987
+ - 1979
+ - 1988
+ - 1995
+estados: 
+ - 
+ - 
+ - 
+ - RJ
+ - RJ
+ - 
+ - RJ
+autor: 
+ - Renato Lemos
 ---

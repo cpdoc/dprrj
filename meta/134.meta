@@ -1,7 +1,25 @@
 ---
 title: AZEVEDO, João Batista de Castro
-cargoss:
- -  const. est. RJ 1892
- -  dep. est. RJ 1892-1894, 1898-1900.
-author: 
+cargoss: 
+ - Constituinte
+ - Deputado Estadual
+ - Deputado Estadual
+cargos_esp: 
+ - est
+ - 
+ - 
+datas_ini: 
+ - 1892
+ - 1898
+ - 1892
+datas_fim: 
+ - 1892
+ - 1900
+ - 1894
+estados: 
+ - RJ
+ - RJ
+ - RJ
+autor: 
+ - 
 ---

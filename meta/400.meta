@@ -1,8 +1,45 @@
 ---
 title: CAVALCANTI, Sandra
-cargoss:
- -  const. est. GB 1960-1961
- -  dep. est. GB 1961-1962
- -  pres. BNH
-author: 
+cargoss: 
+ - Constituinte
+ - Deputado Estadual
+ - Presidente do Banco Nacional da Habitação
+ - Constituinte
+ - Deputado Estadual
+ - Constituinte
+ - Deputado federal
+cargos_esp: 
+ - est GB
+ - GB
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1960
+ - 1961
+ - 1964
+ - 1975
+ - 1975
+ - 1987
+ - 1987
+datas_fim: 
+ - 1961
+ - 1962
+ - 1965
+ - 1975
+ - 1979
+ - 1988
+ - 1995
+estados: 
+ - 
+ - 
+ - 
+ - RJ
+ - RJ
+ - 
+ - RJ
+autor: 
+ - 
 ---

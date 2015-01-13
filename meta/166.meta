@@ -1,9 +1,25 @@
 ---
 title: BARRETO, Mena
-cargoss:
- -  militar
- -  junta gov. prov. 1930
- -  interv. RJ 1931
- -  min. STM 1931-1933.
-author: Renato Lemos
+cargoss: 
+ - Membro de junta governativa
+ - Interventor
+ - Ministro do Supremo Tribunal Militar
+cargos_esp: 
+ - prov
+ - 
+ - 
+datas_ini: 
+ - 1930
+ - 1931
+ - 1931
+datas_fim: 
+ - 1930
+ - 1931
+ - 1933
+estados: 
+ - 
+ - RJ
+ - 
+autor: 
+ - Renato Lemos
 ---

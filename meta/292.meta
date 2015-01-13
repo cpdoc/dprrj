@@ -1,8 +1,30 @@
 ---
 title: BRUNO, Ítalo
-cargoss:
- -  dep. est. GB 1971-1975
- -  dep. est. RJ 1975-1979
- -  const. est. RJ 1975
-author: Sabrina Guerghe
+cargoss: 
+ - Deputado Estadual
+ - Deputado Estadual
+ - Constituinte
+ - Deputado Estadual
+cargos_esp: 
+ - GB
+ - 
+ - est
+ - 
+datas_ini: 
+ - 1971
+ - 1975
+ - 1975
+ - 1979
+datas_fim: 
+ - 1975
+ - 1979
+ - 1975
+ - 1987
+estados: 
+ - 
+ - RJ
+ - RJ
+ - RJ
+autor: 
+ - Sabrina Guerghe
 ---

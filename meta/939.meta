@@ -1,6 +1,22 @@
 ---
 title: LINHARES, Altivo
-cargoss:
- -  dep. est. RJ 1936-1937
- -  sen. RJ 1952-1953
- -  pref. Niterói 1953-1954.
+cargoss: 
+ - Deputado Estadual
+ - Senador
+ - Prefeito
+cargos_esp: 
+ - 
+ - 
+ - Niterói
+datas_ini: 
+ - 1936
+ - 1952
+ - 1953
+datas_fim: 
+ - 1937
+ - 1953
+ - 1954
+estados: 
+ - RJ
+ - RJ
+ - 

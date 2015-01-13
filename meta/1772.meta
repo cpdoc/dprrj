@@ -1,8 +1,30 @@
 ---
 title: SILBERT SOBRINHO, Francisco
-cargoss:
- -  const. est. GB 1960-1961
- -  dep. est. GB 1961-1975
- -  const. est. RJ
-author: 
+cargoss: 
+ - Constituinte
+ - Deputado Estadual
+ - Constituinte
+ - Deputado Estadual
+cargos_esp: 
+ - est GB
+ - GB
+ - est
+ - 
+datas_ini: 
+ - 1960
+ - 1961
+ - 1975
+ - 1975
+datas_fim: 
+ - 1961
+ - 1975
+ - 1975
+ - 1977
+estados: 
+ - 
+ - 
+ - RJ
+ - RJ
+autor: 
+ - 
 ---

@@ -1,10 +1,30 @@
 ---
 title: AZEVEDO, Gwyer de
-cargoss:
- -  militar
- -  rev. 1924
- -  rev. 1930
- -  pref. Campos 1930
- -  const. 1933-1934.
-author: 
+cargoss: 
+ - Revolucionário ou revoltoso
+ - Revolucionário ou revoltoso
+ - Prefeito
+ - Constituinte
+cargos_esp: 
+ - 
+ - 
+ - Campos
+ - 
+datas_ini: 
+ - 1924
+ - 1930
+ - 1930
+ - 1933
+datas_fim: 
+ - 1924
+ - 1930
+ - 1930
+ - 1934
+estados: 
+ - 
+ - 
+ - 
+ - 
+autor: 
+ - 
 ---

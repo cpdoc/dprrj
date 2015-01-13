@@ -1,8 +1,25 @@
 ---
 title: CASTRO, Correia e
-cargoss:
- -  dep. est. RJ 1935-1937
- -  const. est. RJ 1935
- -  min. Faz. 1946-1949.
-author: 
+cargoss: 
+ - Deputado Estadual
+ - Constituinte
+ - Ministro da Fazenda
+cargos_esp: 
+ - 
+ - est
+ - 
+datas_ini: 
+ - 1935
+ - 1935
+ - 1946
+datas_fim: 
+ - 1937
+ - 1935
+ - 1949
+estados: 
+ - RJ
+ - RJ
+ - 
+autor: 
+ - 
 ---

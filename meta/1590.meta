@@ -1,8 +1,35 @@
 ---
 title: RANGEL, Darci
-cargoss:
- -  dep. est. GB 1965, 1966, 1967-1975
- -  dep. est. RJ 1975-1979
- -  const.
-author: Adriana Gomes
+cargoss: 
+ - Deputado Estadual
+ - Deputado Estadual
+ - Deputado Estadual
+ - Deputado Estadual
+ - Constituinte
+cargos_esp: 
+ - GB
+ - GB
+ - GB
+ - 
+ - est
+datas_ini: 
+ - 1967
+ - 1966
+ - 1965
+ - 1975
+ - 1975
+datas_fim: 
+ - 1975
+ - 
+ - 
+ - 1979
+ - 1975
+estados: 
+ - 
+ - 
+ - 
+ - RJ
+ - RJ
+autor: 
+ - Adriana Gomes
 ---

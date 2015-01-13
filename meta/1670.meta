@@ -1,8 +1,25 @@
 ---
 title: ROCHA, José Antônio Porto
-cargoss:
- -  dep. est. RJ 1892-1897
- -  dep. est. RJ 1900-1909
- -  const. est. RJ 1903.
-author: 
+cargoss: 
+ - Deputado Estadual
+ - Deputado Estadual
+ - Constituinte
+cargos_esp: 
+ - 
+ - 
+ - est
+datas_ini: 
+ - 1892
+ - 1900
+ - 1903
+datas_fim: 
+ - 1897
+ - 1909
+ - 1903
+estados: 
+ - RJ
+ - RJ
+ - RJ
+autor: 
+ - 
 ---

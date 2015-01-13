@@ -1,8 +1,30 @@
 ---
 title: LEITE, Jorge
-cargoss:
- -  dep. est. GB 1971-1974
- -  dep. est. RJ 1975-1982
- -  dep. fed. RJ
-author: 
+cargoss: 
+ - Deputado Estadual
+ - Deputado Estadual
+ - Deputado federal
+ - Constituinte
+cargos_esp: 
+ - GB
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1971
+ - 1975
+ - 1983
+ - 1987
+datas_fim: 
+ - 1974
+ - 1982
+ - 1991
+ - 1988
+estados: 
+ - 
+ - RJ
+ - RJ
+ - 
+autor: 
+ - 
 ---

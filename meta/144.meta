@@ -1,9 +1,40 @@
 ---
 title: BALEEIRO, Aliomar
-cargoss:
- -  const. 1946
- -  dep. fed. BA 1946-1959
- -  const. est. GB 1960-1961
- -  dep.
-author: Paulo Brandi
+cargoss: 
+ - Constituinte
+ - Deputado federal
+ - Constituinte
+ - Deputado Estadual
+ - Deputado federal
+ - Ministro do Supremo Tribunal Federal
+cargos_esp: 
+ - 
+ - 
+ - est GB
+ - GB
+ - GB
+ - 
+datas_ini: 
+ - 1946
+ - 1946
+ - 1960
+ - 1961
+ - 1963
+ - 1965
+datas_fim: 
+ - 1946
+ - 1959
+ - 1961
+ - 1963
+ - 1965
+ - 1975
+estados: 
+ - 
+ - BA
+ - 
+ - 
+ - 
+ - 
+autor: 
+ - Paulo Brandi
 ---

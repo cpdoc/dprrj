@@ -1,9 +1,25 @@
 ---
 title: TROTTA, Frederico
-cargoss:
- -  militar
- -  dep. est. GB 1963-1974
- -  const. est. RJ 1975
- -  dep. est. RJ
-author: Daniela Yabeta
+cargoss: 
+ - Deputado Estadual
+ - Constituinte
+ - Deputado Estadual
+cargos_esp: 
+ - GB
+ - est
+ - 
+datas_ini: 
+ - 1963
+ - 1975
+ - 1975
+datas_fim: 
+ - 1974
+ - 1975
+ - 1980
+estados: 
+ - 
+ - RJ
+ - RJ
+autor: 
+ - Daniela Yabeta
 ---

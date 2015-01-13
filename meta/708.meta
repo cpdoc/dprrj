@@ -1,8 +1,30 @@
 ---
 title: FREITAS, Hydekel de
-cargoss:
- -  dep. est. RJ 1963-1967 e 1971-1975
- -  dep. fed. RJ 1975-1982
- -  sen. RJ
-author: 
+cargoss: 
+ - Deputado Estadual
+ - Deputado Estadual
+ - Deputado federal
+ - Senador
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1971
+ - 1963
+ - 1975
+ - 1990
+datas_fim: 
+ - 1975
+ - 1967
+ - 1982
+ - 1995
+estados: 
+ - RJ
+ - RJ
+ - RJ
+ - RJ
+autor: 
+ - 
 ---

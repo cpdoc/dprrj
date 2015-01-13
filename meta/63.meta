@@ -1,8 +1,25 @@
 ---
 title: ALVES, José
-cargoss:
- -  pref. Campos 1951-1955
- -  dep. fed. RJ 1955-1959
- -  pref. Campos
-author: 
+cargoss: 
+ - Prefeito
+ - Deputado federal
+ - Prefeito
+cargos_esp: 
+ - Campos
+ - 
+ - Campos
+datas_ini: 
+ - 1951
+ - 1955
+ - 1959
+datas_fim: 
+ - 1955
+ - 1959
+ - 1962
+estados: 
+ - 
+ - RJ
+ - 
+autor: 
+ - 
 ---

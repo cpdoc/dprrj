@@ -1,7 +1,20 @@
 ---
 title: KLOTZ, Adolfo
-cargoss:
- -  const. est. RJ 1934-1935
- -  dep. est. RJ 1935-1937.
-author: Bruno Norbert
+cargoss: 
+ - Constituinte
+ - Deputado Estadual
+cargos_esp: 
+ - est
+ - 
+datas_ini: 
+ - 1934
+ - 1935
+datas_fim: 
+ - 1935
+ - 1937
+estados: 
+ - RJ
+ - RJ
+autor: 
+ - Bruno Norbert
 ---

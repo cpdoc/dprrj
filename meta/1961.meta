@@ -1,8 +1,30 @@
 ---
 title: VALENTIM, Edmílson
-cargoss:
- -  const. 1987-1988
- -  dep. fed. RJ 1987-1991
- -  dep. est. RJ 1995-2007
-author: 
+cargoss: 
+ - Constituinte
+ - Deputado federal
+ - Deputado Estadual
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1987
+ - 1987
+ - 1995
+ - 2007
+datas_fim: 
+ - 1988
+ - 1991
+ - 2007
+ - 2011
+estados: 
+ - 
+ - RJ
+ - RJ
+ - RJ
+autor: 
+ - 
 ---

@@ -1,8 +1,50 @@
 ---
 title: HADDAD, Jamil
-cargoss:
- -  dep. est. GB 1963-1969
- -  pref. Rio de Janeiro 1983
- -  sen. RJ 1986-1991
-author: 
+cargoss: 
+ - Deputado Estadual
+ - Prefeito
+ - Senador
+ - Constituinte
+ - Deputado federal
+ - Ministro da Saúde
+ - Deputado federal
+ - Deputado Estadual
+cargos_esp: 
+ - GB
+ - Rio de Janeiro
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1963
+ - 1983
+ - 1986
+ - 1987
+ - 1991
+ - 1992
+ - 1993
+ - 1999
+datas_fim: 
+ - 1969
+ - 1983
+ - 1991
+ - 1988
+ - 1992
+ - 1993
+ - 1995
+ - 2003
+estados: 
+ - 
+ - 
+ - RJ
+ - 
+ - RJ
+ - 
+ - RJ
+ - RJ
+autor: 
+ - 
 ---

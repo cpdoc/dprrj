@@ -1,9 +1,25 @@
 ---
 title: TEMER, Mílton
-cargoss:
- -  jornalista
- -  dep. est. RJ 1987-1991
- -  const. est. RJ 1989
- -  dep. fed. RJ
-author: 
+cargoss: 
+ - Deputado Estadual
+ - Constituinte
+ - Deputado federal
+cargos_esp: 
+ - 
+ - est
+ - 
+datas_ini: 
+ - 1987
+ - 1989
+ - 1995
+datas_fim: 
+ - 1991
+ - 1989
+ - 2003
+estados: 
+ - RJ
+ - RJ
+ - RJ
+autor: 
+ - 
 ---

@@ -1,8 +1,25 @@
 ---
 title: CITTADINO, Pascoal
-cargoss:
- -  dep. est. GB 1969-1975
- -  const. est. RJ 1975
- -  dep. est. RJ 1975-1982.
-author: Juliana Gagliardi
+cargoss: 
+ - Deputado Estadual
+ - Constituinte
+ - Deputado Estadual
+cargos_esp: 
+ - GB
+ - est
+ - 
+datas_ini: 
+ - 1969
+ - 1975
+ - 1975
+datas_fim: 
+ - 1975
+ - 1975
+ - 1982
+estados: 
+ - 
+ - RJ
+ - RJ
+autor: 
+ - Juliana Gagliardi
 ---

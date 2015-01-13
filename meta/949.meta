@@ -1,8 +1,25 @@
 ---
 title: LOBO, Moacir de Paula
-cargoss:
- -  const. est. RJ 1935-1936
- -  dep. est. RJ 1935-1937
- -  const. est. RJ1947
-author: 
+cargoss: 
+ - Constituinte
+ - Deputado Estadual
+ - Deputado Estadual
+cargos_esp: 
+ - est
+ - 
+ - 
+datas_ini: 
+ - 1935
+ - 1935
+ - 1947
+datas_fim: 
+ - 1936
+ - 1937
+ - 1951
+estados: 
+ - RJ
+ - RJ
+ - RJ
+autor: 
+ - 
 ---

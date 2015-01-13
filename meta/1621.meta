@@ -1,7 +1,20 @@
 ---
 title: REIS, Malvino da Silva
-cargoss:
- -  const. est. RJ 1891
- -  dep. est. RJ 1891.
-author: 
+cargoss: 
+ - Constituinte
+ - Deputado Estadual
+cargos_esp: 
+ - est
+ - 
+datas_ini: 
+ - 1891
+ - 1891
+datas_fim: 
+ - 1891
+ - 1891
+estados: 
+ - RJ
+ - RJ
+autor: 
+ - 
 ---

@@ -1,7 +1,25 @@
 ---
 title: LEITE, Leopoldo Teixeira
-cargoss:
- -  const. est. RJ 1892
- -  dep. est. RJ 1892-1894 e 1913-1921.
-author: 
+cargoss: 
+ - Constituinte
+ - Deputado Estadual
+ - Deputado Estadual
+cargos_esp: 
+ - est
+ - 
+ - 
+datas_ini: 
+ - 1892
+ - 1913
+ - 1892
+datas_fim: 
+ - 1892
+ - 1921
+ - 1894
+estados: 
+ - RJ
+ - RJ
+ - RJ
+autor: 
+ - 
 ---

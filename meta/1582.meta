@@ -1,8 +1,25 @@
 ---
 title: RAMOS, Hugo
-cargoss:
- -  const. est. GB 1960-1961
- -  dep. est. GB 1961-1962
- -  sen. RJ 1978-1983.
-author: 
+cargoss: 
+ - Constituinte
+ - Deputado Estadual
+ - Senador
+cargos_esp: 
+ - est GB
+ - GB
+ - 
+datas_ini: 
+ - 1960
+ - 1961
+ - 1978
+datas_fim: 
+ - 1961
+ - 1962
+ - 1983
+estados: 
+ - 
+ - 
+ - RJ
+autor: 
+ - 
 ---

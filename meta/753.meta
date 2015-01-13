@@ -1,8 +1,30 @@
 ---
 title: GOMES, Horácio de Magalhães
-cargoss:
- -  dep. est. RJ 1910-1912
- -  dep. fed. RJ 1915-1917
- -  dep. est. RJ
-author: Luciana Pinheiro
+cargoss: 
+ - Deputado Estadual
+ - Deputado federal
+ - Deputado Estadual
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1910
+ - 1915
+ - 1923
+ - 1924
+datas_fim: 
+ - 1912
+ - 1917
+ - 1924
+ - 1929
+estados: 
+ - RJ
+ - RJ
+ - RJ
+ - RJ
+autor: 
+ - Luciana Pinheiro
 ---

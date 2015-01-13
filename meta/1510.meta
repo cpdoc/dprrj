@@ -1,7 +1,45 @@
 ---
 title: PINHEIRO, Saramago
-cargoss:
- -  const. est. RJ 1947
- -  dep. est. RJ 1947-1963, 1967-1968 e 1971-1975
-author: 
+cargoss: 
+ - Constituinte
+ - Deputado Estadual
+ - Deputado Estadual
+ - Deputado Estadual
+ - Constituinte
+ - Deputado Estadual
+ - Deputado federal
+cargos_esp: 
+ - est
+ - 
+ - 
+ - 
+ - est
+ - 
+ - 
+datas_ini: 
+ - 1947
+ - 1971
+ - 1967
+ - 1947
+ - 1975
+ - 1975
+ - 1979
+datas_fim: 
+ - 1947
+ - 1975
+ - 1968
+ - 1963
+ - 1975
+ - 1979
+ - 1987
+estados: 
+ - RJ
+ - RJ
+ - RJ
+ - RJ
+ - RJ
+ - RJ
+ - RJ
+autor: 
+ - 
 ---

@@ -1,9 +1,30 @@
 ---
 title: SODRÉ, Feliciano
-cargoss:
- -  militar
- -  dep. est. RJ 1910-1911
- -  pref. Niterói 1911-1914
- -  pres. RJ
-author: Raimundo Helio Lopes
+cargoss: 
+ - Deputado Estadual
+ - Prefeito
+ - Presidente de associação ou confederação de empregados ou empregadores
+ - Senador
+cargos_esp: 
+ - 
+ - Niterói
+ - 
+ - 
+datas_ini: 
+ - 1910
+ - 1911
+ - 1923
+ - 1928
+datas_fim: 
+ - 1911
+ - 1914
+ - 1927
+ - 1930
+estados: 
+ - RJ
+ - 
+ - RJ
+ - RJ
+autor: 
+ - Raimundo Helio Lopes
 ---

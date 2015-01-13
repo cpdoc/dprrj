@@ -1,9 +1,25 @@
 ---
 title: ALMEIDA, Nelson de Vasconcelos e
-cargoss:
- -  militar
- -  const. 1891
- -  dep. fed. PI 1891-1893
- -  dep. fed. DF 1900-1905.
-author: Raimundo Helio Lopes
+cargoss: 
+ - Constituinte
+ - Deputado federal
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1891
+ - 1891
+ - 1900
+datas_fim: 
+ - 1891
+ - 1893
+ - 1905
+estados: 
+ - 
+ - PI
+ - DF
+autor: 
+ - Raimundo Helio Lopes
 ---

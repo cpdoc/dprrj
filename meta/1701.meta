@@ -1,7 +1,20 @@
 ---
 title: ROSINHA GAROTINHO
-cargoss:
- -  gov. RJ 2003-2007
- -  pref. Campos 2009-
-author: 
+cargoss: 
+ - Governador de estado ou do Distrito Federal
+ - Prefeito
+cargos_esp: 
+ - 
+ - Campos
+datas_ini: 
+ - 2003
+ - 2009
+datas_fim: 
+ - 2007
+ - 
+estados: 
+ - RJ
+ - 
+autor: 
+ - 
 ---

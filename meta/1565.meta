@@ -1,8 +1,25 @@
 ---
 title: QUEIRÓS, Manuel Edwiges de
-cargoss:
- -  const. est. RJ 1892
- -  dep. est. RJ 1892-1893
- -  min. Agr. 1913-1914.
-author: Raimundo Helio Lopes
+cargoss: 
+ - Constituinte
+ - Deputado Estadual
+ - min Agr
+cargos_esp: 
+ - est
+ - 
+ - 
+datas_ini: 
+ - 1892
+ - 1892
+ - 1913
+datas_fim: 
+ - 1892
+ - 1893
+ - 1914
+estados: 
+ - RJ
+ - RJ
+ - 
+autor: 
+ - Raimundo Helio Lopes
 ---

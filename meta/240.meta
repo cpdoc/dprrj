@@ -1,7 +1,20 @@
 ---
 title: BOMTEMPO, Rubens
-cargoss:
- -  dep. est. RJ 1987-1991
- -  const. est. RJ 1989.
-author: 
+cargoss: 
+ - Deputado Estadual
+ - Constituinte
+cargos_esp: 
+ - 
+ - est
+datas_ini: 
+ - 1987
+ - 1989
+datas_fim: 
+ - 1991
+ - 1989
+estados: 
+ - RJ
+ - RJ
+autor: 
+ - 
 ---

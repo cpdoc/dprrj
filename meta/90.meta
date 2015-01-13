@@ -1,8 +1,35 @@
 ---
 title: ANTHONY GAROTINHO
-cargoss:
- -  dep. est. RJ 1987-1988
- -  pref. Campos 1989-1992 e 1997-1998
- -  gov. RJ
-author: 
+cargoss: 
+ - Deputado Estadual
+ - Prefeito
+ - Prefeito
+ - Governador de estado ou do Distrito Federal
+ - Deputado federal
+cargos_esp: 
+ - 
+ - Campos
+ - Campos
+ - 
+ - 
+datas_ini: 
+ - 1987
+ - 1997
+ - 1989
+ - 1999
+ - 2011
+datas_fim: 
+ - 1988
+ - 1998
+ - 1992
+ - 2002
+ - 
+estados: 
+ - RJ
+ - 
+ - 
+ - RJ
+ - RJ
+autor: 
+ - 
 ---

@@ -1,9 +1,25 @@
 ---
 title: MORAIS, Ângelo Mendes de
-cargoss:
- -  militar
- -  pref. DF 1947-1951
- -  dep. fed. DF 1959-1960
- -  dep. fed. GB
-author: 
+cargoss: 
+ - Prefeito
+ - Deputado federal
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+ - GB
+datas_ini: 
+ - 1947
+ - 1959
+ - 1960
+datas_fim: 
+ - 1951
+ - 1960
+ - 1971
+estados: 
+ - DF
+ - DF
+ - 
+autor: 
+ - 
 ---

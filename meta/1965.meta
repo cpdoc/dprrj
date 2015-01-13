@@ -1,8 +1,30 @@
 ---
 title: VARGAS, Iara
-cargoss:
- -  dep.est. GB 1967-1968
- -  dep.est. RJ 1983 e 1986-1995
- -  const. est.
-author: 
+cargoss: 
+ - Deputado Estadual
+ - Deputado Estadual
+ - Deputado Estadual
+ - Constituinte
+cargos_esp: 
+ - GB
+ - 
+ - 
+ - est
+datas_ini: 
+ - 1967
+ - 1986
+ - 1983
+ - 1989
+datas_fim: 
+ - 1968
+ - 1995
+ - 1983
+ - 1989
+estados: 
+ - 
+ - RJ
+ - RJ
+ - 
+autor: 
+ - 
 ---

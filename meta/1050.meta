@@ -1,7 +1,25 @@
 ---
 title: MARTINS, Barcelos
-cargoss:
- -  pref. Campos 1955-1959, 1963-1964
- -  dep. est. RJ 1959-1962.
-author: 
+cargoss: 
+ - Prefeito
+ - Prefeito
+ - Deputado Estadual
+cargos_esp: 
+ - Campos
+ - Campos
+ - 
+datas_ini: 
+ - 1963
+ - 1955
+ - 1959
+datas_fim: 
+ - 1964
+ - 1959
+ - 1962
+estados: 
+ - 
+ - 
+ - RJ
+autor: 
+ - 
 ---

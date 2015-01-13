@@ -1,8 +1,30 @@
 ---
 title: DIAS, Jerônimo Afonso Viana
-cargoss:
- -  dep. est. RJ 1935-1937
- -  const. est. RJ 1936
- -  dep. est. RJ 1947-1951
-author: Raimundo Helio Lopes
+cargoss: 
+ - Deputado Estadual
+ - Constituinte
+ - Deputado Estadual
+ - Constituinte
+cargos_esp: 
+ - 
+ - est
+ - 
+ - est
+datas_ini: 
+ - 1935
+ - 1936
+ - 1947
+ - 1947
+datas_fim: 
+ - 1937
+ - 1936
+ - 1951
+ - 1947
+estados: 
+ - RJ
+ - RJ
+ - RJ
+ - RJ
+autor: 
+ - Raimundo Helio Lopes
 ---

@@ -1,8 +1,35 @@
 ---
 title: FRIAS, Edésio
-cargoss:
- -  dep. est. RJ 1975-1985
- -  const. 1988
- -  dep. fed. RJ 1988-1989,
-author: Sabrina Guerghe
+cargoss: 
+ - Deputado Estadual
+ - Constituinte
+ - Deputado federal
+ - Deputado federal
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1975
+ - 1988
+ - 1993
+ - 1990
+ - 1988
+datas_fim: 
+ - 1985
+ - 1988
+ - 1994
+ - 1992
+ - 1989
+estados: 
+ - RJ
+ - 
+ - RJ
+ - RJ
+ - RJ
+autor: 
+ - Sabrina Guerghe
 ---

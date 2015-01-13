@@ -1,6 +1,27 @@
 ---
 title: WERNECK, José Inácio da Rocha
-cargoss:
- -  dep. est. RJ 1923-1926
- -  const. est. RJ 1935
- -  pref. Niterói 1948-1950
+cargoss: 
+ - Deputado Estadual
+ - Constituinte
+ - Prefeito
+ - Prefeito
+cargos_esp: 
+ - 
+ - est
+ - Niterói
+ - Niterói
+datas_ini: 
+ - 1923
+ - 1935
+ - 1950
+ - 1948
+datas_fim: 
+ - 1926
+ - 1935
+ - 1951
+ - 1950
+estados: 
+ - RJ
+ - RJ
+ - 
+ - 

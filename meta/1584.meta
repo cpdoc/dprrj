@@ -1,9 +1,25 @@
 ---
 title: RAMOS, Leoni
-cargoss:
- -  magistrado
- -  dep. est. RJ 1895-1897
- -  pref. Niterói 1905-1906
- -  min. STF
-author: 
+cargoss: 
+ - Deputado Estadual
+ - Prefeito
+ - Ministro do Supremo Tribunal Federal
+cargos_esp: 
+ - 
+ - Niterói
+ - 
+datas_ini: 
+ - 1895
+ - 1905
+ - 1910
+datas_fim: 
+ - 1897
+ - 1906
+ - 1931
+estados: 
+ - RJ
+ - 
+ - 
+autor: 
+ - 
 ---

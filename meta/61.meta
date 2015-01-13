@@ -1,7 +1,20 @@
 ---
 title: ALVES, Fidélis de Azevedo
-cargoss:
- -  dep. est. RJ 1892-1902
- -  dep. fed. RJ 1903-1908.
-author: 
+cargoss: 
+ - Deputado Estadual
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+datas_ini: 
+ - 1892
+ - 1903
+datas_fim: 
+ - 1902
+ - 1908
+estados: 
+ - RJ
+ - RJ
+autor: 
+ - 
 ---

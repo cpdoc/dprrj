@@ -1,9 +1,30 @@
 ---
 title: ROMÃO JÚNIOR, Antônio José
-cargoss:
- -  const. est. 1935
- -  dep. est. RJ 1935-1937
- -  const. 1946
- -  dep. fed. RJ
-author: 
+cargoss: 
+ - Constituinte
+ - Deputado Estadual
+ - Constituinte
+ - Deputado federal
+cargos_esp: 
+ - est
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1935
+ - 1935
+ - 1946
+ - 1946
+datas_fim: 
+ - 1935
+ - 1937
+ - 1946
+ - 1951
+estados: 
+ - 
+ - RJ
+ - 
+ - RJ
+autor: 
+ - 
 ---

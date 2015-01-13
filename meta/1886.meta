@@ -1,8 +1,45 @@
 ---
 title: TAVARES, Bastos
-cargoss:
- -  pref. Campos 1932-1933
- -  const. est. RJ 1935
- -  dep. est. RJ 1935-1936
-author: 
+cargoss: 
+ - Prefeito
+ - Constituinte
+ - Deputado Estadual
+ - Prefeito
+ - Constituinte
+ - Deputado federal
+ - Deputado Estadual
+cargos_esp: 
+ - Campos
+ - est
+ - 
+ - Campos
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1932
+ - 1935
+ - 1935
+ - 1936
+ - 1946
+ - 1946
+ - 1959
+datas_fim: 
+ - 1933
+ - 1935
+ - 1936
+ - 1937
+ - 1946
+ - 1951
+ - 1961
+estados: 
+ - 
+ - RJ
+ - RJ
+ - 
+ - 
+ - RJ
+ - RJ
+autor: 
+ - 
 ---

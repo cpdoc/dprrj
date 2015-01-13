@@ -1,8 +1,25 @@
 ---
 title: RIBEIRO, Nina
-cargoss:
- -  dep. est. GB 1963-1971
- -  dep. fed. GB 1971-1975
- -  dep. fed. RJ
-author: Lorenzo Aldé
+cargoss: 
+ - Deputado Estadual
+ - Deputado federal
+ - Deputado federal
+cargos_esp: 
+ - GB
+ - GB
+ - 
+datas_ini: 
+ - 1963
+ - 1971
+ - 1975
+datas_fim: 
+ - 1971
+ - 1975
+ - 1979
+estados: 
+ - 
+ - 
+ - RJ
+autor: 
+ - Lorenzo Aldé
 ---

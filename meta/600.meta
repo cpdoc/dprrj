@@ -1,8 +1,35 @@
 ---
 title: ERTHAL, José
-cargoss:
- -  const. est. RJ 1935
- -  dep. est. RJ 1935-1937
- -  const. est. RJ 1947
-author: 
+cargoss: 
+ - Constituinte
+ - Deputado Estadual
+ - Constituinte
+ - Deputado Estadual
+ - Deputado Estadual
+cargos_esp: 
+ - est
+ - 
+ - est
+ - 
+ - 
+datas_ini: 
+ - 1935
+ - 1935
+ - 1947
+ - 1951
+ - 1947
+datas_fim: 
+ - 1935
+ - 1937
+ - 1947
+ - 1954
+ - 1950
+estados: 
+ - RJ
+ - RJ
+ - RJ
+ - RJ
+ - RJ
+autor: 
+ - 
 ---

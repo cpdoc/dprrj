@@ -1,8 +1,25 @@
 ---
 title: BRITO, Alves de
-cargoss:
- -  dep. est. RJ 1975-1979
- -  const. est. RJ 1975
- -  dep. est. RJ 1979-1983.
-author: Sabrina Guerghe
+cargoss: 
+ - Deputado Estadual
+ - Constituinte
+ - Deputado Estadual
+cargos_esp: 
+ - 
+ - est
+ - 
+datas_ini: 
+ - 1975
+ - 1975
+ - 1979
+datas_fim: 
+ - 1979
+ - 1975
+ - 1983
+estados: 
+ - RJ
+ - RJ
+ - RJ
+autor: 
+ - Sabrina Guerghe
 ---

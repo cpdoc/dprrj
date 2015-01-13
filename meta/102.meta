@@ -1,8 +1,25 @@
 ---
 title: ARAÚJO, Teotônio Ferreira de
-cargoss:
- -  const. est. RJ 1947
- -  dep. est. RJ 1947-1964
- -  gov. RJ 1966-1967.
-author: Carvalho.
+cargoss: 
+ - Constituinte
+ - Deputado Estadual
+ - Governador de estado ou do Distrito Federal
+cargos_esp: 
+ - est
+ - 
+ - 
+datas_ini: 
+ - 1947
+ - 1947
+ - 1966
+datas_fim: 
+ - 1947
+ - 1964
+ - 1967
+estados: 
+ - RJ
+ - RJ
+ - RJ
+autor: 
+ - Carvalho.
 ---

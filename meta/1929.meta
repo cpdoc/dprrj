@@ -1,10 +1,35 @@
 ---
 title: TORRES, Paulo
-cargoss:
- -  militar
- -  rev. 1922
- -  gov. AC 1955-1956
- -  gov. RJ 1964-1966
- -  sen. RJ
-author: 
+cargoss: 
+ - Revolucionário ou revoltoso
+ - Governador de estado ou do Distrito Federal
+ - Governador de estado ou do Distrito Federal
+ - Senador
+ - Deputado federal
+cargos_esp: 
+ - 
+ - 
+ - 
+ - 
+ - 
+datas_ini: 
+ - 1922
+ - 1955
+ - 1964
+ - 1967
+ - 1979
+datas_fim: 
+ - 1922
+ - 1956
+ - 1966
+ - 1975
+ - 1983
+estados: 
+ - 
+ - AC
+ - RJ
+ - RJ
+ - RJ
+autor: 
+ - 
 ---

@@ -1,8 +1,30 @@
 ---
 title: CUNHA, Ranulfo Bocaiúva
-cargoss:
- -  dep. est. RJ 1915-1921
- -  pref. Niterói 1921-1922
- -  dep. fed. RJ
-author: 
+cargoss: 
+ - Deputado Estadual
+ - Prefeito
+ - Deputado federal
+ - Ministro do Supremo Tribunal Militar
+cargos_esp: 
+ - 
+ - Niterói
+ - 
+ - 
+datas_ini: 
+ - 1915
+ - 1921
+ - 1924
+ - 1946
+datas_fim: 
+ - 1921
+ - 1922
+ - 1930
+ - 1957
+estados: 
+ - RJ
+ - 
+ - RJ
+ - 
+autor: 
+ - 
 ---
