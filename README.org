@@ -4,16 +4,8 @@ This dictionary has six directories:
 
 - html :: Holds the original html files for each dictionary entry.
 
-- md :: Holds the markdown files from of each html file entry.
-
-- meta :: Holds the processed meta data information compiled in the
-     first paragraph of each dictionary entry. Each meta file holds
-     the following fields: a) title b) each position is comprised of 5
-     different fields (represented by a list, each position entry
-     means an item of list for each field): cargoss (position),
-     cargos_esp (detail of the position), datas_ini (initial date),
-     datas_fim (end date), estados (state where the position was
-     taken).  c) autor (author of the entry)
+- text :: main dir with the text in Markdown and meta information in a
+     YAML header.
 
 -  ref :: Holds the reference text in each dictionary entry.
 
