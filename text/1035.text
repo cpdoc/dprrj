@@ -1,18 +1,12 @@
 ---
 title: MARCIAL, Bulhões
-cargoss: 
- - Deputado federal
-cargos_esp: 
- - 
-datas_ini: 
- - 1903
-datas_fim: 
- - 1911
-estados: 
- - DF
-**MARCIAL, Bulhões**
-
-\* dep. fed. DF 1903-1911**.**
+natureza: biográfico
+sexo: m
+cargos: 
+ - dep. fed. DF 1903-1911 
+autor: 
+ - Carolina Vianna Dantas
+---
 
 *João de Bulhões Matos Marcial* nasceu na vila de Iguaçu (RJ) no dia 4
 de julho de 1860, filho de Antônio Marcial e de Joana de Bulhões Matos
@@ -31,7 +25,3 @@ Casa de Misericórdia no bairro de São Cristóvão.
 Em 1903, elegeu-se pela primeira vez deputado federal pelo Distrito
 Federal. Reeleito em 1906 e 1909, ocupou uma cadeira na Câmara dos
 Deputados até dezembro de 1911.
-
-*Carolina Vianna Dantas*
-
-FONTE: ABRANCHES, J. *Governos*.

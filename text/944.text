@@ -1,18 +1,12 @@
 ---
 title: LIRA, Gustavo
-cargoss: 
- - Prefeito
-cargos_esp: 
- - Niterói
-datas_ini: 
- - 1932
-datas_fim: 
- - 1935
-estados: 
- - 
-**LIRA, Gustavo**
-
-\* pref. Niterói 1932-1935.
+natureza: biográfico
+sexo: m
+cargos: 
+ - pref. Niterói 1932-1935 
+autor: 
+ - Paulo César Gomes Bezerra
+---
 
 *Gustavo Lira da Silva* nasceu no Rio de Janeiro, então capital do
 Império, no dia 23 de fevereiro de 1881, filho de Domingos Lira da Silva
@@ -61,8 +55,3 @@ e faleceu logo depois.
 
 Faleceu no dia 11 de dezembro de 1936 no Rio de Janeiro, então Distrito
 Federal.
-
-*Paulo César Gomes Bezerra*
-
-fontes: SEC. MUN. CULT. NITERÓI. *Niterói*; SOARES, E.
-*Prefeitura*;SOARES, E. *Ruas*; WEHRS,C. *Niterói*.

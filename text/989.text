@@ -1,26 +1,14 @@
 ---
 title: MACHADO, Francisco Gomes
-cargoss: 
- - Constituinte
- - Deputado Estadual
-cargos_esp: 
- - est
- - 
-datas_ini: 
- - 1891
- - 1891
-datas_fim: 
- - 1891
- - 1891
-estados: 
- - RJ
- - RJ
+natureza: biográfico
+sexo: m
+cargos: 
+ - militar
+ - const. est. RJ 1891
+ - dep. est. RJ 1891 
 autor: 
- - 
+ - Samuel Silva Rodrigues de Oliveira
 ---
-**MACHADO, Francisco Gomes**
-
-\* militar; const. est. RJ 1891; dep. est. RJ 1891.
 
 *Francisco Gomes Machado* nasceu no Rio de Janeiro (RJ), então capital
 do Império, em 1834.
@@ -60,8 +48,3 @@ Alcançou a patente de tenente-coronel e foi comandante do Corpo Policial
 de Niterói (RJ).
 
 Faleceu no dia 5 de novembro de 1893.
-
-*Samuel Silva Rodrigues de Oliveira*
-
-FONTES: FERREIRA, M. *República*; *Diário Oficial*(14/4/1892); *País*
-(6/11/1893).

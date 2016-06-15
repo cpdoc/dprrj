@@ -1,23 +1,13 @@
 ---
 title: MACEDO, José Bueno Alves de Azevedo
-cargoss: 
- - Constituinte
- - Deputado Estadual
-cargos_esp: 
- - est
- - 
-datas_ini: 
- - 1891
- - 1891
-datas_fim: 
- - 1891
- - 1891
-estados: 
- - RJ
- - RJ
-**MACEDO, José Bueno Alves de Azevedo**
-
-\* const. est. RJ 1891; dep. est. RJ 1891.
+natureza: biográfico
+sexo: m
+cargos: 
+ - const. est. RJ 1891
+ - dep. est. RJ 1891 
+autor: 
+ - Vicente Saul Moreira dos Santos
+---
 
 *José Bueno Alves de Azevedo Macedo* foi eleito deputado estadual em 20
 de março de 1891 nas primeiras eleições realizadas após a proclamação da
@@ -36,7 +26,3 @@ por não ter mais o apoio do poder federal. Seu sucessor, Carlos Baltasar
 da Silveira (1891-1892), revogou a Constituição republicana fluminense,
 fechou o Congresso estadual e convocou uma nova Assembleia Constituinte.
 Diante disso, José Bueno Alves de Azevedo Macedo perdeu o mandato.
-
-*Vicente Saul Moreira dos Santos*
-
-FONTE: FERREIRA, M. *República*.
