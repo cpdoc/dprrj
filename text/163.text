@@ -1,26 +1,13 @@
 ---
 title: BARCELOS, Licínio Chaves
-cargoss: 
- - Constituinte
- - Deputado Estadual
-cargos_esp: 
- - est
- - 
-datas_ini: 
- - 1891
- - 1891
-datas_fim: 
- - 1891
- - 1891
-estados: 
- - RJ
- - RJ
+natureza: biográfico
+sexo: m
+cargos: 
+ - const. est. RJ 1891
+ - dep. est. RJ 1891 
 autor: 
- - 
+ - Samuel Silva Rodrigues de Oliveira
 ---
-**BARCELOS, Licínio Chaves**
-
-\* const. est. RJ 1891; dep. est. RJ 1891.
 
 *Licínio Chaves Barcelos* nasceu no Rio Grande do Sul em 23 de agosto de
 1857.
@@ -56,10 +43,3 @@ Janeiro.
 Faleceu em Fortaleza no dia 19 de janeiro de 1895.
 
 Publicou *Álgebra* (1885).
-
-*Samuel Silva Rodrigues de Oliveira*
-
-FONTES: BASTOS, M. *Conferências*; BIELINSKI, A. *Educação*; BLAKE, A.
-*Dicionário*; CONGRESSO BRAS. HIST. EDU. *Anais*; *Diário Oficial da
-União* (13/11/1893); FERREIRA, S. *Colégio*;FERREIRA, M. *República*;
-MILLER, C. *Doutorado*.

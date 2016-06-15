@@ -1,42 +1,13 @@
 ---
 title: BARROS, Togo de
-cargoss: 
- - Constituinte
- - Deputado Estadual
- - Deputado Estadual
- - Governador de estado ou do Distrito Federal
- - Deputado Estadual
-cargos_esp: 
- - est
- - 
- - 
- - 
- - 
-datas_ini: 
- - 1947
- - 1955
- - 1947
- - 1958
- - 1963
-datas_fim: 
- - 1947
- - 1958
- - 1951
- - 1959
- - 1966
-estados: 
- - RJ
- - RJ
- - RJ
- - RJ
- - RJ
-autor: 
- - 
+natureza: biográfico
+sexo: m
+cargos: 
+ - const. est. RJ 1947
+ - dep. est. RJ 1947-1951 e 1955-1958
+ - gov. RJ 1958-1959
+ - dep. est. RJ 1963-1966 
 ---
-**BARROS,** **Togo de**
-
-\* const. est. RJ 1947; dep. est. RJ 1947-1951 e 1955-1958; gov. RJ
-1958-1959; dep. est. RJ 1963-1966.
 
 *Togo Póvoa de Barros* nasceu em Campos (RJ) no dia 24 de abril de 1914,
 filho de José Ribeiro de Almeida Barros Filho e de Djanira Póvoa.
@@ -62,7 +33,7 @@ quando transmitiu o governo a Roberto Silveira.
 
 Reeleito deputado estadual na legenda do PSD em outubro de 1962, foi
 empossado em fevereiro seguinte. Com a decretação do Ato Institucional
-n^o^ 2, em outubro de 1965, e a posterior instauração do bipartidarismo,
+nº 2, em outubro de 1965, e a posterior instauração do bipartidarismo,
 filiou-se à Aliança Renovadora Nacional (Arena), partido de sustentação
 do regime militar instituído no país em abril de 1964. Candidatava-se à
 reeleição na legenda da Arena, quando, em novembro de 1966, teve a
@@ -96,6 +67,3 @@ filhos.
 
 Entre outros livros, publicou *Discursos parlamentares* e *Um pouco de
 mim, muito dos outros* (memórias, 1996).
-
-FONTES: CORRESP. GOV. EST. RJ; *Encic.* *Mirador*; *Globo* (26/3/2007);
-INF. BIOG.; *Jornal do Brasil* (3/7/1980); LACOMBE, L. *Chefes.*

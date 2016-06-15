@@ -1,63 +1,19 @@
 ---
 title: ALVIM, Cesário
-cargoss: 
- - Deputado Geral
- - Deputado Geral
- - Presidente de associação ou confederação de empregados ou empregadores
- - Governador de estado ou do Distrito Federal
- - Ministro do Interior
- - Constituinte
- - Senador
- - Presidente de associação ou confederação de empregados ou empregadores
- - Prefeito
-cargos_esp: 
- - 
- - 
- - 
- - 
- - 
- - 
- - 
- - 
- - 
-datas_ini: 
- - 1877
- - 1867
- - 1884
- - 1889
- - 1890
- - 1891
- - 1891
- - 1891
- - 1899
-datas_fim: 
- - 1880
- - 1868
- - 1886
- - 1890
- - 1891
- - 1891
- - 1891
- - 1892
- - 1990
-estados: 
- - MG
- - MG
- - RJ
- - MG
- - 
- - 
- - MG
- - MG
- - DF
+natureza: biográfico
+sexo: m
+cargos: 
+ - dep. ger. MG 1867-1868 e 1877-1880
+ - pres. RJ 1884-1886
+ - gov. MG 1889-1890
+ - min. Interior 1890-1891
+ - const. 1891
+ - sen. MG 1891
+ - pres. MG 1891-1892
+ - pref. DF 1899-1990 
 autor: 
  - Vanessa Lana
 ---
-**ALVIM, Cesário**
-
-\* dep. ger. MG 1867-1868 e 1877-1880; pres. RJ 1884-1886; gov. MG
-1889-1890; min. Interior 1890-1891; const. 1891; sen. MG 1891; pres. MG
-1891-1892; pref. DF 1899-1990.
 
 *José Cesário de Faria Alvim* nasceu em Arraial do Pinheiro, município
 de Mariana (MG), atual Pinheiros Altos, distrito de Piranga (MG), em 7
@@ -108,7 +64,7 @@ Gerais. Tomou posse em 15 de novembro e acumulou as funções legislativa
 e ministerial até a renúncia coletiva do ministério em 20 de janeiro de
 1891, em decorrência de um assalto ocorrido no jornal carioca *A
 Tribuna*. Um mês depois, em 24 de fevereiro, foi promulgada a primeira
-Constituição republicana. Em 1^o^ de junho passou a exercer o mandato
+Constituição republicana. Em 1º de junho passou a exercer o mandato
 ordinário no Senado, mas em 15 de junho foi eleito pelo Congresso
 Legislativo Mineiro primeiro presidente constitucional do estado de
 Minas Gerais. Para assumir o novo cargo, renunciou ao Senado.
@@ -146,9 +102,3 @@ e *Um ministro negociante* (discursos contra o barão de Cotegipe, 1877).
 Foi colaborador dos jornais *O Dia* (Rio de Janeiro), *O Farol* (Juiz de
 Fora) e *O Diário de Minas* (Belo Horizonte), além de fundador e diretor
 de *A Opinião Mineira* (Ouro Preto).
-
-*Vanessa Lana*
-
-FONTES: MONTEIRO, N. *Dicionário*;GOV. MINAS GERAIS. Disponível em:
-\<www.mg.gov.br/governomg/comunidade/governomg/galeria-de-governadores/jose-cesario-de-faria-alvim/5794\>.
-Acesso em: 18/5/2010.
