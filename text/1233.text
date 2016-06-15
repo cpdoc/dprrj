@@ -1,24 +1,14 @@
 ---
 title: NEVES, Antônio Pereira
-cargoss: 
- - Constituinte
- - Deputado Estadual
-cargos_esp: 
- - est
- - 
-datas_ini: 
- - 1891
- - 1891
-datas_fim: 
- - 1891
- - 1891
-estados: 
- - RJ
- - RJ
-**NEVES, Antônio Pereira**
-
-\* const. est. RJ 1891; dep. est. RJ 1891.
-
+natureza: biográfico
+sexo: m
+cargos: 
+ - const. est. RJ 1891
+ - dep. est. RJ 1891 
+autor: 
+ - Samuel Silva Rodrigues de Oliveira
+---
+ 
 *Antônio Pereira Neves* elegeu-se deputado estadual nas primeiras
 eleições realizadas após a proclamação da República (15/11/1889) para a
 formação da Assembleia Constituinte fluminense. Esse pleito, realizado
@@ -40,7 +30,3 @@ sucessor, Carlos Baltasar da Silveira (1891-1892), revogou a
 Constituição republicana fluminense, fechou o Congresso estadual e
 convocou uma nova Assembleia Constituinte. Diante disso, Antônio Pereira
 Neves perdeu o mandato.
-
-*Samuel Silva Rodrigues de Oliveira*
-
-FONTE: FERREIRA, M. *República*.

@@ -1,31 +1,13 @@
 ---
 title: PASSOS, Gesteira
-cargoss: 
- - Constituinte
- - Deputado Estadual
- - Deputado Estadual
-cargos_esp: 
- - est
- - 
- - 
-datas_ini: 
- - 1892
- - 1900
- - 1892
-datas_fim: 
- - 1892
- - 1903
- - 1897
-estados: 
- - RJ
- - RJ
- - RJ
+natureza: biográfico
+sexo: m
+cargos: 
+ - const. est. RJ 1892
+ - dep. est. RJ 1892-1897 e 1900-1903 
 autor: 
- - 
+ - Samuel Silva Rodrigues de Oliveira
 ---
-**PASSOS, Gesteira**
-
-\* const. est. RJ 1892; dep. est. RJ 1892-1897 e 1900-1903.
 
 *Manuel Gesteira Passos*, advogado em Campos (RJ), foi ligado ao Partido
 Conservador durante o Império.
@@ -63,7 +45,7 @@ deputados que integraram o “Grupo de Petrópolis”, defensor da manutenção
 nessa cidade da capital do estado, que para lá havia sido transferida em
 1894. O grupo foi derrotado pela facção liderada por Nilo Peçanha, então
 principal nome do PRRJ, que em agosto de 1902 conseguiu a aprovação na
-ALERJ da Lei n^o^ 542, que determinou a volta da capital para Niterói.
+ALERJ da Lei nº 542, que determinou a volta da capital para Niterói.
 Ainda em 1902, foi eleito para a Comissão de Guarda da Constituição e
 das Leis e de Poderes. Em 1903, ano final da legislatura, participou da
 reforma da Constituição estadual, que determinou, entre outras medidas,
@@ -71,9 +53,3 @@ o fortalecimento do Executivo estadual a partir da diminuição das
 atribuições do Legislativo e do Judiciário; o aumento do mandato do
 presidente estadual de três para quatro anos; e a redução do número de
 deputados estaduais de 60 para 45.
-
-*Samuel Silva Rodrigues de Oliveira*
-
-FONTES: ASSEMB. LEGISL. RJ. *Anais* (14/11/1892-12/1/1893, 1/3-9/4/1892,
-13-26/1/1893, 1/8/1893, 1895, 1897, 1899-1903); FERREIRA, M.
-*República*.

@@ -1,54 +1,19 @@
 ---
 title: PINHEIRO, Saramago
-cargoss: 
- - Constituinte
- - Deputado Estadual
- - Deputado Estadual
- - Deputado Estadual
- - Constituinte
- - Deputado Estadual
- - Deputado federal
-cargos_esp: 
- - est
- - 
- - 
- - 
- - est
- - 
- - 
-datas_ini: 
- - 1947
- - 1971
- - 1967
- - 1947
- - 1975
- - 1975
- - 1979
-datas_fim: 
- - 1947
- - 1975
- - 1968
- - 1963
- - 1975
- - 1979
- - 1987
-estados: 
- - RJ
- - RJ
- - RJ
- - RJ
- - RJ
- - RJ
- - RJ
+natureza: biográfico
+sexo: m
+cargos: 
+ - const. est. RJ 1947
+ - dep. est. RJ 1947-1963, 1967-1968 e 1971-1975
+ - const. est. RJ 1975
+ - dep. est. RJ 1975-1979
+ - dep. fed. RJ 1979-1987 
 autor: 
- - 
+ - Gisela Moura
+ - Márcia de Sousa
 ---
-**PINHEIRO, Saramago**
 
-\* const. est. RJ 1947; dep. est. RJ 1947-1963, 1967-1968 e 1971-1975;
-const. est. RJ 1975; dep. est. RJ 1975-1979; dep. fed. RJ 1979-1987.
-
-*Evaldo* *Saramago* *Pinheiro* nasceu em Niterói no dia 16 de julho de
+*Evaldo Saramago Pinheiro* nasceu em Niterói no dia 16 de julho de
 1914, filho de Arnaldo Colens Pinheiro e de Palmira Saramago Pinheiro.
 
 Fez o curso secundário no Colégio Brasil, em sua cidade, e o superior no
@@ -81,7 +46,7 @@ foi derrotado por Badger da Silveira, do PTB.
 
 Afastado do Legislativo, de 1964 e 1966 participou da diretoria da Caixa
 Econômica Federal. Com a extinção dos partidos políticos pelo Ato
-Institucional n^o^ 2, de 27 de outubro de 1965, e o estabelecimento do
+Institucional nº 2, de 27 de outubro de 1965, e o estabelecimento do
 bipartidarismo, filiou-se à Aliança Renovadora Nacional (Arena), partido
 de sustentação do regime militar instaurado no país em abril do ano
 anterior. No pleito de novembro de 1966 voltou a ser eleito deputado
@@ -148,8 +113,3 @@ Assembleia Legislativa do Estado do Rio de Janeiro, lançou o livro
 *Hamilton Xavier e Saramago Pinheiro: depoimentos*.
 
 Casado com Maria de Lurdes Saramago Pinheiro, teve quatro filhos.
-
-Gisela Moura/Márcia de Sousa
-
-FONTES: CÂM. DEP. *Deputados brasileiros*. Repertório (1979-1983);
-*Jornal do Brasil* (20/11/1978); XAVIER, H. *Hamilton*.

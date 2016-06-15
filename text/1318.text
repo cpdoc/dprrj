@@ -1,37 +1,13 @@
 ---
 title: PALLIS, Vilmar
-cargoss: 
- - Deputado Estadual
- - Constituinte
- - Deputado Estadual
- - fed
-cargos_esp: 
- - GB
- - Est
- - 
- - 
-datas_ini: 
- - 1971
- - 1975
- - 1975
- - 1983
-datas_fim: 
- - 1975
- - 1975
- - 1983
- - 1987
-estados: 
- - 
- - RJ
- - RJ
- - RJ
-autor: 
- - 
+natureza: biográfico
+sexo: m
+cargos: 
+ - dep. est. GB 1971-1975
+ - const. Est. RJ 1975
+ - dep. est. RJ 1975-1983
+ - fed. RJ 1983-1987 
 ---
-**PALLIS, Vilmar**
-
-\* dep. est. GB 1971-1975; const. Est. RJ 1975; dep. est. RJ 1975-1983;
-fed. RJ 1983-1987.
 
 *Vilmar Pallis* nasceu em Uberaba (MG) no dia 7 de junho de 1928, filho
 de Jacob Pallis e Sames Pallis.
@@ -121,7 +97,3 @@ Marcado um novo pleito para novembro seguinte, Pallis também não
 conseguiu se eleger.
 
 Teve duas filhas.
-
-FONTES: CÂM. DEP. *Deputados brasileiros*. Repertório (1983-1987);
-*Globo* (6/1/1989, 21/11/1994, 20/3/1996); *Jornal do Brasil*
-(23/11/1974, 1/3/1989, 27/9/1994).
