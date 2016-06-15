@@ -1,47 +1,18 @@
 ---
 title: VELASCO, Domingos
-cargoss: 
- - Constituinte
- - Deputado federal
- - Constituinte
- - Deputado federal
- - Senador
- - Deputado federal
-cargos_esp: 
- - 
- - 
- - 
- - 
- - 
- - 
-datas_ini: 
- - 1934
- - 1935
- - 1946
- - 1946
- - 1951
- - 1959
-datas_fim: 
- - 1934
- - 1937
- - 1946
- - 1951
- - 1959
- - 1961
-estados: 
- - 
- - GO
- - 
- - GO
- - GO
- - RJ
+natureza: biográfico
+sexo: m
+cargos: 
+ - militar
+ - const. 1934
+ - dep. fed. GO 1935-1937
+ - const. 1946
+ - dep. fed. GO 1946-1951
+ - sen. GO 1951-1959
+ - dep. fed. RJ 1959-1961 
 autor: 
  - Vilma Keller
 ---
-**VELASCO, Domingos**
-
-\* militar; const. 1934; dep. fed. GO 1935-1937; const. 1946; dep. fed.
-GO 1946-1951; sen. GO 1951-1959; dep. fed. RJ 1959-1961.
 
 *Domingos Neto de Velasco* nasceu em Vila Boa de Goiás, atual Goiás,
 então capital do estado do mesmo nome, no dia 8 de outubro de 1899,
@@ -53,7 +24,7 @@ onde fez o curso preparatório. Matriculou-se depois na Escola Militar do
 Realengo e foi promovido a segundo-tenente em 1920.
 
 A partir de então, exerceu intensa atividade jornalística, colaborando
-com a *Revista* *dos Militares* de Porto Alegre entre 1920 e 1921, e
+com a *Revista dos Militares* de Porto Alegre entre 1920 e 1921, e
 fundando e dirigindo o jornal *A Imprensa*, órgão de penetração política
 editado em Goiás para apoiar a Reação Republicana, movimento que
 promoveu em 1921 e 1922 a candidatura de Nilo Peçanha à presidência da
@@ -71,7 +42,7 @@ presidente estadual Brasil Ramos Caiado (1925-1929) e seu irmão, o
 senador Antônio Ramos Caiado. Apoiou ainda a campanha deflagrada com a
 formação da Aliança Liberal em 1929, e tomou parte na Revolução de 1930.
 
-Participação no Governo Provisório
+## Participação no Governo Provisório
 
 Vitoriosa a revolução e empossado o governo provisório de Getúlio
 Vargas, Velasco foi indicado para o cargo de secretário de Segurança e
@@ -98,7 +69,7 @@ debate e na votação do programa elaborado pelo partido. Velasco foi um
 dos mais ativos representantes desta última corrente, ao lado de Wagner
 Estelita Campos, Paulo Fleury e Dario Cardoso.
 
-Na Assembleia Constituinte
+## Na Assembleia Constituinte
 
 No pleito de 3 de maio de 1933 para a Assembleia Nacional Constituinte,
 Domingos Velasco foi eleito juntamente com Mário de Alencastro Caiado,
@@ -193,7 +164,7 @@ como candidato ao governo o interventor federal Pedro Ludovico, enquanto
 a ala “esquerdista” propôs a candidatura de Domingos Velasco. Como se
 previa, o interventor venceu as eleições realizadas em 1935.
 
-Apoio à ANL e à Revolta de 1935
+## Apoio à ANL e à Revolta de 1935
 
 No dia 3 de maio de 1935, Velasco iniciou seus trabalhos na Câmara dos
 Deputados, onde se tornaria um dos líderes da Minoria Parlamentar e
@@ -277,7 +248,7 @@ atacou o governo e Filinto Müller. Exerceu o mandato até a decretação do
 Estado Novo, em 10 de novembro de 1937, quando foram suprimidos todos os
 órgãos legislativos do país.
 
-A redemocratização
+## A redemocratização
 
 Com a desagregação do Estado Novo e o início do processo de
 redemocratização do país, Domingos Velasco retomou suas atividades
@@ -320,20 +291,14 @@ abril de 1948 com a finalidade de lutar pela tese do monopólio estatal.
 
 Em julho de 1948, em meio a uma polêmica entre socialistas e comunistas,
 Velasco foi acusado por Luís Carlos Prestes – num artigo intitulado “O
-imperialismo em busca de novos quadros”, publicado na revista *Problemas
-–* de se estar deixando envolver pelo imperialismo. Prestes criticou-o
-também por usar um tom injurioso para com os comunistas, já então na
-ilegalidade, o que não favorecia a discussão sobre as divergências entre
-as duas correntes. Velasco, por seu lado, atacava o PCB por este não
-haver previsto, em 1945-1946, a onda de reacionarismo que se avolumou em
-1947, e que resultaria na cassação do registro do partido.
+imperialismo em busca de novos quadros”, publicado na revista *Problemas* – de se estar deixando envolver pelo imperialismo. Prestes criticou-o também por usar um tom injurioso para com os comunistas, já então na ilegalidade, o que não favorecia a discussão sobre as divergências entre as duas correntes. Velasco, por seu lado, atacava o PCB por este não haver previsto, em 1945-1946, a onda de reacionarismo que se avolumou em 1947, e que resultaria na cassação do registro do partido.
 
 Em 1949, Velasco tornou-se membro da comissão diretora do CEDPEN.
 
-No Senado
+## No Senado
 
 No pleito de 3 de outubro de 1950, Velasco foi eleito senador por Goiás
-na legenda do PSB. Iniciando o mandato em 1^o^ de fevereiro de 1951,
+na legenda do PSB. Iniciando o mandato em 1º de fevereiro de 1951,
 tornou-se secretário geral do partido e seu líder no Senado.
 Paralelamente, exerceu intensa atividade jornalística, fundando ainda
 nesse ano, juntamente com Francisco Mangabeira, o jornal *O Popular*.
@@ -357,7 +322,7 @@ estatal, ao lado de Landulfo Alves, do Partido Trabalhista Brasileiro
 do Sul, apoiou o projeto tal como fora enviado pela Câmara dos
 Deputados. Em 15 de setembro de 1953, encerrou-se a votação do projeto
 no Congresso Nacional e, em 3 de outubro, Getúlio Vargas sancionou a Lei
-n^o^ 2.004, instituindo o monopólio estatal, com base na qual seria
+nº 2.004, instituindo o monopólio estatal, com base na qual seria
 criada a Petrobras.
 
 Com o suicídio de Vargas em 24 de agosto de 1954, o vice-presidente João
@@ -386,17 +351,3 @@ Faleceu em 10 de março de 1973.
 Entre suas principais obras, figuram *Direito eleitoral* (1934), *Defesa
 prévia* (1936), *Sal da terra* (1939), *Rumos políticos* (1946)e *O que
 é o cristianismo social* (1957).
-
-Vilma Keller
-
-FONTES: ARQ. CLUBE 3 DE OUTUBRO; *Boletim Min. Trab.* (5/1936); CAFÉ
-FILHO, J. *Sindicato*; CÂM. DEP. *Anais* (1960-1); CÂM. DEP.
-*Deputados*; CÂM. DEP. *Relação dos* *dep.*; *Câm. Dep. seus
-componentes*; CARNEIRO, G. *História*; CARONE, E. *República Nova*;
-CARVALHO, E. *Petróleo*; CISNEIROS, A. *Parlamentares*; COHN, G.
-*Petróleo*; *Diário* *do Congresso Nacional*; GODINHO, V.
-*Constituintes*; *Grande encic. Delta*; *Jornal do Brasil*; KONDER, L.
-*Democracia*; LEVINE, R. *Vargas*; PEIXOTO, A. *Getúlio*; PERALVA, O.
-*Retrato*; PORTO, E. *Insurreição*; SENADO. *Relação*; SENADO. *Relação
-dos líderes*; SILVA, G. *Constituinte*; SILVA, H. *1935*; SILVA, H.
-*1937*; TAVARES, J. *Radicalização*.

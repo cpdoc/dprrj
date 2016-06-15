@@ -1,42 +1,18 @@
 ---
 title: TÁVOLA, Artur da
-cargoss: 
- - Constituinte
- - Deputado Estadual
- - Constituinte
- - Deputado federal
- - Senador
-cargos_esp: 
- - est GB
- - GB
- - 
- - 
- - 
-datas_ini: 
- - 1960
- - 1961
- - 1987
- - 1987
- - 1995
-datas_fim: 
- - 1961
- - 1964
- - 1988
- - 1995
- - 2003
-estados: 
- - 
- - 
- - 
- - RJ
- - RJ
+natureza: biográfico
+sexo: m
+cargos: 
+ - jornalista
+ - const. est. GB 1960-1961
+ - dep. est. GB 1961-1964
+ - const.1987-1988
+ - dep. fed. RJ 1987-1995
+ - sen. RJ 1995-2003 
 autor: 
- - 
+ - Musa Clara Velásquez
+ - André Faria Couto
 ---
-**TÁVOLA, Artur da**
-
-\* jornalista; const. est. GB 1960-1961; dep. est. GB 1961-1964;
-const.1987-1988; dep. fed. RJ 1987-1995; sen. RJ 1995-2003.
 
 *Paulo Alberto Moretzsohn Monteiro de Barros* nasceu no Rio de Janeiro,
 então Distrito Federal, em 3 de janeiro de 1936, filho de Paulo de Deus
@@ -315,14 +291,3 @@ de mim* (1981); *Ser jovem* (1981); *Do amor, ensaio de enigma* (1983);
 um no meu lugar* (1984); *Amor a si mesmo* (1984); *O ator* (1984);
 *Comunicação e mito* (1985); *Calentura* (1986); e *Maurice Ravel, um
 feiticeiro sem Deus* (1987).
-
-Musa Clara Velásquez/André Faria Couto
-
-FONTES:ASSEMB. NAC. CONST. *Repertório* (1987-1988); *Boletim do DIAP*;
-CÂM. DEP. *Deputados brasileiros*. Repertório (1991-1995); COELHO, J.;
-OLIVEIRA, A. *Nova*; *Estado de S. Paulo* (28/3, 13/4, 8/7/1995, 20/6,
-10/12/1996, 1/7/1997); *Folha de S.Paulo* (16, 29/3, 13/4, 8/6/1995);
-*Globo* (10, 17/3, 24/9/1994, 5/4, 20, 21/6/1996, 10/5/2008); *Jornal do
-Brasil* (4/4/1987, 28/11/1988, 15, 16, 20/6, 19/10/1996, 18/8/1999);
-*Olho no voto/Folha de S.Paulo* (18/9/1994); *Olho no Congresso/Folha de
-S.Paulo* (14/1/1996, 30/1/1997); *Perfil parlamentar/IstoÉ*.

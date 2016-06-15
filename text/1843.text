@@ -1,47 +1,15 @@
 ---
 title: SOBRAL, Luís
-cargoss: 
- - Prefeito
- - Prefeito
- - Prefeito
- - Constituinte
- - Deputado Estadual
- - Prefeito
-cargos_esp: 
- - Campos
- - Campos
- - Campos
- - est
- - 
- - Campos
-datas_ini: 
- - 1930
- - 1920
- - 1914
- - 1935
- - 1935
- - 1937
-datas_fim: 
- - 1930
- - 1924
- - 1918
- - 1935
- - 1937
- - 1939
-estados: 
- - 
- - 
- - 
- - RJ
- - RJ
- - 
+natureza: biográfico
+sexo: m
+cargos: 
+ - pref. Campos 1914-1918, 1920-1924, 1930
+ - const. est. RJ 1935
+ - dep. est. RJ 1935-1937
+ - pref. Campos 1937-1939 
 autor: 
  - Raimundo Helio Lopes
 ---
-**SOBRAL, Luís**
-
-\* pref. Campos 1914-1918, 1920-1924, 1930; const. est. RJ 1935; dep.
-est. RJ 1935-1937; pref. Campos 1937-1939.
 
 *Luís Caetano Guimarães Sobral* foi médico em Campos (RJ).
 
@@ -59,7 +27,7 @@ a candidatura de Nilo Peçanha à presidência da República em oposição a
 Artur Bernardes nas eleições de março de 1922.
 
 Empossado no ano seguinte, participou da elaboração da nova Constituição
-estadual e, após sua promulgação em 1^o^ de outubro de 1935, passou a
+estadual e, após sua promulgação em 1º de outubro de 1935, passou a
 exercer o mandato ordinário. Em 10 de novembro de 1937 teve o mandato
 cassado, quando com a implantação do Estado Novo foram suprimidos todos
 os órgãos legislativos do país.
@@ -68,11 +36,3 @@ Ao longo de sua trajetória política foi ainda vereador na cidade de
 Campos.
 
 Faleceu em Campos no dia 23 de junho de 1952.
-
-*Raimundo Helio Lopes*
-
-FONTES: ASSEMB. LEGISL. RJ. *Anais* (1935); BELOCH, I; ABREU, A. *Dic.*;
-CÂM. VER. CAMPOS DOS GOYTACAZES. Disponível em:
-\<www.camaracampos.rj.gov.br/historia\_camara.php\>. Acesso em:
-3/5/2011; *Jornal do Brasil* (24/6/1952); *Diário de Notícias*
-(25/6/1952).

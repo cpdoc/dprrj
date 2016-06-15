@@ -1,53 +1,16 @@
 ---
 title: TAVARES, Bastos
-cargoss: 
- - Prefeito
- - Constituinte
- - Deputado Estadual
- - Prefeito
- - Constituinte
- - Deputado federal
- - Deputado Estadual
-cargos_esp: 
- - Campos
- - est
- - 
- - Campos
- - 
- - 
- - 
-datas_ini: 
- - 1932
- - 1935
- - 1935
- - 1936
- - 1946
- - 1946
- - 1959
-datas_fim: 
- - 1933
- - 1935
- - 1936
- - 1937
- - 1946
- - 1951
- - 1961
-estados: 
- - 
- - RJ
- - RJ
- - 
- - 
- - RJ
- - RJ
-autor: 
- - 
+natureza: biográfico
+sexo: m
+cargos: 
+ - pref. Campos 1932-1933
+ - const. est. RJ 1935
+ - dep. est. RJ 1935-1936
+ - pref. Campos 1936-1937
+ - const. 1946
+ - dep. fed. RJ 1946-1951
+ - dep. est. RJ 1959-1961  
 ---
-**TAVARES,** **Bastos**
-
-\* pref. Campos 1932-1933; const. est. RJ 1935; dep. est. RJ 1935-1936;
-pref. Campos 1936-1937; const. 1946; dep. fed. RJ 1946-1951; dep. est.
-RJ 1959-1961.
 
 *Sílvio Bastos Tavares* nasceu em Campos (RJ) no dia 19 de julho de
 1893, filho de Antônio Luz Tavares e de Amélia Bastos Tavares.
@@ -91,8 +54,3 @@ Faleceu no Rio de Janeiro em 1961, em pleno exercício do mandato, vítima
 de desastre aéreo.
 
 Era casado com Raquel de Barros Tavares, com quem teve dois filhos.
-
-FONTES: ARQ. GETÚLIO VARGAS; CÂM. DEP. *Deputados*; CÂM. DEP. *Deputados
-brasileiros*. Repertório (1946-1967); CÂM. DEP. *Relação dos dep.*;
-CONSULT. MAGALHÃES, B.; CORTÉS, C. *Homens*; OLIVEIRA, H. *Presidentes*;
-SILVA, G. *Constituinte*; TRIB. SUP. ELEIT. *Dados* (1, 3).
