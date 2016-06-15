@@ -1,26 +1,13 @@
 ---
 title: VILELA, Lara
-cargoss: 
- - Constituinte
- - Deputado Estadual
-cargos_esp: 
- - est
- - 
-datas_ini: 
- - 1947
- - 1947
-datas_fim: 
- - 1947
- - 1954
-estados: 
- - RJ
- - RJ
+natureza: biográfico
+sexo: f
+cargos: 
+ - const. est. RJ 1947
+ - dep. est. RJ 1947-1954 
 autor: 
- - 
+ - Vicente Saul Moreira dos Santos
 ---
-**VILELA, Lara**
-
-\* const. est. RJ 1947; dep. est. RJ 1947-1954.
 
 *José Agostinho de Lara Vilela* nasceu em Cambuci (RJ), no dia 10 de
 fevereiro de 1905.
@@ -73,9 +60,3 @@ PRP.
 Foi, ainda, membro da Academia Niteroiense de Letras.
 
 Faleceu em Niterói no dia 30 de março de 1954.
-
-*Vicente Saul Moreira dos Santos*
-
-FONTES: ACAD. NITEROIENSE LET. Disponível em:
-\<www.academianiteroiense.org.br\>; ASSEMB. CONST. RJ. *Anais* (1947);
-ASSEMB. LEGISL. RJ. *Anais*(1947, 1948, 1951).

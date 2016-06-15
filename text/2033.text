@@ -1,47 +1,14 @@
 ---
 title: XAVIER, Hamilton
-cargoss: 
- - Constituinte
- - Deputado Estadual
- - Deputado Estadual
- - Deputado Estadual
- - Deputado federal
- - Deputado federal
-cargos_esp: 
- - est
- - 
- - 
- - 
- - 
- - 
-datas_ini: 
- - 1947
- - 1964
- - 1955
- - 1947
- - 1983
- - 1971
-datas_fim: 
- - 1947
- - 1966
- - 1963
- - 1951
- - 1987
- - 1975
-estados: 
- - RJ
- - RJ
- - RJ
- - RJ
- - RJ
- - RJ
+natureza: biográfico
+sexo: m
+cargos: 
+ - const. est. RJ 1947
+ - dep. est. RJ 1947-1951, 1955-1963 e 1964-1966
+ - dep. fed. RJ 1971-1975 e 1983-1987 
 autor: 
- - 
+ - Márcia de Sousa
 ---
-**XAVIER,** **Hamilton**
-
-\* const. est. RJ 1947; dep. est. RJ 1947-1951, 1955-1963 e 1964-1966;
-dep. fed. RJ 1971-1975 e 1983-1987.
 
 *Hamilton Xavier* nasceu em Niterói no dia 7 de agosto de 1916, filho de
 Everton da Costa Xavier e de Alice Fernandes Xavier. Seu pai exerceu
@@ -95,7 +62,7 @@ Com a vitória do movimento político-militar de 31 de março de 1964 e a
 cassação dos direitos políticos de Badger da Silveira, o governo do Rio
 de Janeiro passou às mãos de Paulo Torres. Hamilton Xavier, que havia
 ocupado uma cadeira na Assembleia, tornou-se líder do governo. Com a
-extinção dos partidos políticos pelo Ato Institucional n^o^ 2
+extinção dos partidos políticos pelo Ato Institucional nº 2
 (27/10/1965) e o consequente estabelecimento do bipartidarismo,
 filiou-se ao Movimento Democrático Brasileiro (MDB), partido de oposição
 ao regime militar, e permaneceu na liderança até agosto de 1966, quando
@@ -151,13 +118,3 @@ Casado com Maria Luísa de Sousa Xavier, teve três filhos.
 
 Em 1999 o Núcleo de Memória Política Carioca e Fluminense lançou o livro
 *Hamilton Xavier e Saramago Pinheiro: depoimentos ao CPDOC/FGV*.
-
-Márcia de Sousa
-
-FONTES: ASSEMB. LEG. RJ. *Discurso*. Disponível em:
-\<http://alerjln1.alerj.rj.gov.br/taqalerj2006.nsf/5d50d39bd976391b83256536006a2502/1540d8659e6cf225832571090071ef5a?OpenDocument\>.
-Acesso em: 31/8/2009; CÂM. DEP. *Deputados*;CÂM. DEP. *Deputados
-brasileiros*. Repertório (1971-1975); CÂM. DEP. *Relação nominal dos
-senhores*;FERREIRA, M. *Hamílton*; *Globo* (26/4/1984, 16/1/1985);
-*IstoÉ/Senhor*; *Jornal do Brasil* (13, 14/12/1979, 4/2, 23/5/1980);
-*Perfil* (1972); TRIB. SUP. ELEIT. *Dados* (9).
