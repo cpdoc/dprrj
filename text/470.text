@@ -1,32 +1,15 @@
 ---
 title: CORREIA, Hércules
-cargoss: 
- - Constituinte
- - Deputado Estadual
- - dir CGT
-cargos_esp: 
- - est GB
- - GB
- - 
-datas_ini: 
- - 1960
- - 1961
- - 1962
-datas_fim: 
- - 1961
- - 1964
- - 1964
-estados: 
- - 
- - 
- - 
+natureza: biográfico
+sexo: m
+cargos: 
+ - mov. comunista
+ - const. est. GB 1960-1961
+ - dep. est. GB 1961-1964;
+dir. CGT 1962-1964 
 autor: 
  - Marcelo Costa
 ---
-**CORREIA, Hércules**
-
-\* mov. comunista; const. est. GB 1960-1961; dep. est. GB 1961-1964;
-dir. CGT 1962-1964.
 
 *Hércules Correia dos Reis* nasceu em Cachoeiro de Itapemirim (ES) no
 dia 16 de dezembro de 1929, filho de Jorge Correia dos Reis e de Maria
@@ -77,7 +60,7 @@ promovidos pelo PCB visando à formação de seus militantes, e em seguida
 viajou para Moscou a fim de cursar a escola de quadros do Partido
 Comunista da União Soviética (PCUS).
 
-Atuação parlamentar e sindical
+## Atuação parlamentar e sindical
 
 De volta ao Brasil em 1955, assumiu as funções de secretário sindical do
 comitê metropolitano (comitê municipal do Distrito Federal) do PCB,
@@ -124,13 +107,13 @@ meses de 1964 e foram decisivas para que as pressões das forças armadas
 sobre Goulart evoluíssem no sentido de uma conspiração que resultou na
 derrubada do presidente pelo movimento de 31 de março.
 
-Passagem para a clandestinidade
+## Passagem para a clandestinidade
 
 Muito procurado pela polícia política, Hércules Correia chegou a ser
 dado como morto, mas escapou à onda de prisões que se seguiu ao
 movimento político-militar. No dia 10 de abril teve seu mandato
 parlamentar cassado e seus direitos políticos suspensos por dez anos com
-base no Ato Institucional n^o^ 1, editado na véspera pela junta militar
+base no Ato Institucional nº 1, editado na véspera pela junta militar
 que assumira o poder.
 
 Depois de permanecer escondido durante três meses, deslocou-se para
@@ -256,9 +239,3 @@ Casou-se em segundas núpcias com Flora Strozenberg Correia dos Reis.
 Escreveu *A classe operária e seu partido*, *O ABC de 1980* (ambos
 publicados em 1980), *Crise do socialismo* (1981) e *Memórias de um
 stalinista* (1995).
-
-Marcelo Costa
-
-FONTES: ARQ. DEP. PESQ. JORNAL DO BRASIL; CORREIA, H. *Classe*; INF.
-BIOG.; *Jornal do Brasil* (29/7, 30/9, 24/10/1979, 3/2, 1, 9, 22/4,
-21/5, 22/7/1980, 3/4/1997); MACEDO, R. *Efemérides*; NÉRI, S. *16.*

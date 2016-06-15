@@ -1,37 +1,15 @@
 ---
 title: FERRAZ, Rubens
-cargoss: 
- - Constituinte
- - Deputado Estadual
- - Constituinte
- - Deputado Estadual
-cargos_esp: 
- - est
- - 
- - est
- - 
-datas_ini: 
- - 1947
- - 1947
- - 1975
- - 1975
-datas_fim: 
- - 1947
- - 1962
- - 1975
- - 1979
-estados: 
- - RJ
- - RJ
- - RJ
- - RJ
+natureza: biográfico
+sexo: m
+cargos: 
+ - const. est. RJ 1947
+ - dep. est. RJ 1947-1962
+ - const. est. RJ 1975
+ - dep. est. RJ 1975-1979 
 autor: 
- - 
+ - Vicente Saul Moreira dos Santos
 ---
-**FERRAZ, Rubens**
-
-\* const. est. RJ 1947; dep. est. RJ 1947-1962; const. est. RJ 1975;
-dep. est. RJ 1975-1979.
 
 *Rubens Tinoco Ferraz* atuou em Itaperuna (RJ).
 
@@ -87,9 +65,3 @@ Educação, Cultura, Ciência e Tecnologia. Deixou a ALERJ em janeiro de
 1979, ao final da legislatura.
 
 Foi casado com Ruth Perlingeiro Ferraz.
-
-*Vicente Saul Moreira dos Santos*
-
-FONTES: ASSEMB. CONST. RJ. *Anais* (1947, 1975); ASSEMB. LEGISL. RJ.
-*Anais* (1947, 1948, 1951, 1959); CARDIANO, F. *Eleição*; *Estado*,
-(9/8/1947).
